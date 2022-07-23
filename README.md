@@ -6,7 +6,7 @@
 
 - 👩‍💻 My name is Olivia
 - 🛠️ I’m currently studying to become a web developer
-- 🎮 Fun fact: I'm loving every second of it!
+- 💻 Fun fact: I'm loving every second of it!
 
 ### <img src="https://c.tenor.com/AESz5FRMR_oAAAAC/capoo-cat.gif" width="50"> A little more about me:  
 
