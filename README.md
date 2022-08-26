@@ -12,9 +12,9 @@
 
 ```javascript
 const oli = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node],
+  pronouns: "she / her",
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["React", "Node"],
   techCommunity: {
                         mentor: "Cubos Academy",
                         expertiseArea: "Full stack developer"
